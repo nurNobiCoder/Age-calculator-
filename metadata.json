@@ -1,0 +1,6 @@
+{
+  "name": "Age Calculator",
+  "description": "An interactive, beautiful Age Calculator that displays exact age in years, months, and days with custom countdowns and milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
